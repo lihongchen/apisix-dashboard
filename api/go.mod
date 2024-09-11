@@ -97,4 +97,5 @@ replace (
 	golang.org/x/net => github.com/golang/net v0.29.0
 	golang.org/x/sys => github.com/golang/sys v0.25.0
 	golang.org/x/text => github.com/golang/text v0.18.0
+	golang.org/x/oauth2 => github.com/golang/oauth2 v0.23.0
 )
